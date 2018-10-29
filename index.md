@@ -4,7 +4,7 @@
 **CURRENTLY HAVE BUG AND DEVELOPING**
 
 The ASM Team makes the android studio in the mobile device.
-To contribute, see [contributing guides](CONTRIBUTING.md).
+To contribute, see [contributing guides](CONTRIBUTING/).
 
 ## Features
 For more details, see each README.me files in each folder(like main/app)
