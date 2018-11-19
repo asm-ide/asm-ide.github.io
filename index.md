@@ -50,7 +50,7 @@ ASM Team members:
 * [__Ingan121__(@Ingan121)](https://github.com/Ingan121)
 * [__ImportLicherd__(@ImportLicherd)](https://github.com/ImportLicherd)
 
-# Licenses
+# License
 For details, see [HERE](web/license/).
 ```
 		
