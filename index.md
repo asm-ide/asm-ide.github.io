@@ -10,7 +10,7 @@ Thanks for your attention to our project! ♥️
 To contribute, see [contributing guideline](CONTRIBUTING/).
 
 # Resources
-To see our github repository and source code, visit https://github.com/asm-ide/ASM.
+To see our github repository and source code, visit [https://github.com/asm-ide/ASM](https://github.com/asm-ide/ASM).
 You should make sure that our code didn't make public to other people to copy or use our code; see [License Section](#License).  
 As our code containing bugs, **we don't have builded APK**. We're sorry about this, and coding hard now.
 
