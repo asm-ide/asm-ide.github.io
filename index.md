@@ -6,7 +6,7 @@
 The ASM Team makes the android studio in the mobile device.
 
 # Contributing
-Thanks for your attention to our project! :heart:  
+Thanks for your attention to our project! ♥️  
 To contribute, see [contributing guideline](CONTRIBUTING/).
 
 # Resources
